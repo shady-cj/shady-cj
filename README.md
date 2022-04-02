@@ -33,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring data science.
 - 🌱 I’m currently learning more on cloud computing.
-- 😄 Pronouns: Him/He
+- 😄 Pronouns: Him/He/His
 - :zap: In my free time, I solve problems on leetcode and read tech articles on medium.
 
 - :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erinfolami-peter-3330111a4/)
