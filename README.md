@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I’m working as a freelancer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring data science.
-- 🌱 I’m currently learning more on cloud computing.
+- 🌱 I’m currently learning more on devops
 - 😄 Pronouns: Him/He/His
 - :zap: In my free time, I solve problems on leetcode and read tech articles on medium.
 
