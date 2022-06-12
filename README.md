@@ -67,6 +67,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shady-cj&count_private=true&theme=tokyonight&showicons=true)]()
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shady-cj&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shady-cj&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
