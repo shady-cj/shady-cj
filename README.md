@@ -20,7 +20,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="width:100%;" height="280"/>
 </div>
 
 ---
@@ -70,10 +70,9 @@ I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlp
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shady-cj&count_private=true&theme=dark&background=000000&showicons=true)]()
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shady-cj&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shady-cj&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=shady-cj&show_icons=true&theme=vision-friendly-dark&layout=compact" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shady-cj&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **shady-cj/shady-cj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
